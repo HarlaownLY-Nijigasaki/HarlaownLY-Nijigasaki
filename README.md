@@ -5,14 +5,14 @@ A Software Engineering graduate from Curtin University (Australia) with a strong
 
 I enjoy turning ideas into real, usable products — from concept sketching in Figma to writing clean, functional code. I’m  interested in mobile app development and user-focused design.
 
-🧑‍💻 Tech Stack
+## 🧑‍💻 Tech Stack
 	- Primary languages: Java, Swift, C
 	- Currently learning: TypeScript, JavaScript
 	- Tools I love:
 	  	-	Figma (for visualising and structuring ideas)
 	  	-	Notepad++ (Windows) / CotEditor (macOS)
 
-🌱 A bit about me
+## 🌱 A bit about me
 	- 🐱 Proud human of two British Shorthair cats
 	- 🍵 Big fan of Japanese green tea
 	- 🎌 Anime lover (yes, my name gives it away 😄)
